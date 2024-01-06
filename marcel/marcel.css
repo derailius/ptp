@@ -31,14 +31,14 @@
   --c--bg--quinary:    #686868; /* tint 35% */
 
   /* Color accent foreground */
-  --c--ac--fg--tint:   #e5d4c5; /* tint 40% */
-  --c--ac--fg:         #d4b79f;
-  --c--ac--fg--shade:  #94806f; /* shade 30% */
+  --c--ac--fg--tint:   #e1dedc; /* tint 40% */
+  --c--ac--fg:         #6d6e6f;
+  --c--ac--fg--shade:  #252321; /* shade 30% */
 
   /* Color accent background */
-  --c--ac--bg--tint:   #7f6e5f; /* shade 40% */
-  --c--ac--bg:         #6a5c50; /* shade 50% */
-  --c--ac--bg--shade:  #554940; /* shade 60% */
+  --c--ac--bg--tint:   #5f697f; /* shade 40% */
+  --c--ac--bg:         #3c3c49; /* shade 50% */
+  --c--ac--bg--shade:  #1d1e25; /* shade 60% */
 
   /* Color transparent foreground */
   --c--tr--fg--less: rgba(255, 255, 255, .8);
@@ -225,7 +225,7 @@ body {
   min-width: 1024px;
   max-width: 1440px;
   margin: 0 auto;
-  padding: 0 32px;
+  padding: 0 50px; /*was 32px */
 }
 
 *, ::before, ::after {
