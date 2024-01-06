@@ -17,7 +17,7 @@ https://jimpalompa.github.io/ptp/django/wotan.css
 # Marcel
 Marcel (dark version)
 ```
-https://jimpalompa.github.io/ptp/marcel/marcel.css
+https://derailius.github.io/ptp/marcel/marcel.css
 ```
 
 Shosanna (light version)
