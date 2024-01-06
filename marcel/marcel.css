@@ -1292,7 +1292,7 @@ img#browse_settings {
   display: flex;
   flex-direction: column;
   width: 19%;
-  max-width: 210px;
+  /*max-width: 210px;*/
   margin-bottom: var(--sp--large);
   border-radius: var(--br);
 }
