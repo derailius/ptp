@@ -112,7 +112,7 @@
 
   /* Spacing */
   --sp--puny: 4px;
-  --sp--tiny: 6px;
+  /*--sp--tiny: 6px; */
   --sp--small: 12px;
   --sp--medium: 16px;
   --sp--large: 20px;
@@ -1292,6 +1292,7 @@ img#browse_settings {
   display: flex;
   flex-direction: column;
   width: 19%;
+  max-width: 210px;
   margin-bottom: var(--sp--large);
   border-radius: var(--br);
 }
