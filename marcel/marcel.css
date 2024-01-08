@@ -83,6 +83,7 @@
   --c--pink-tint:    #ff9ccd;
   --c--pink:         #d92c8d;
   --c--pink-shade:   #a03067;
+  --c--ac--fg--shade: #75828f;
 
   /* Font family */
   --ff--primary: 'Source Sans Pro', ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
